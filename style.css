@@ -1,0 +1,13 @@
+.nav-background{
+    background-image: url("https://images.unsplash.com/photo-1521178010706-baefe2334211?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fHJhbmRvbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60");
+    background-size: cover;
+    min-height: 100%;
+
+}
+
+.background-photo{
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUVWSW0Uaog7GGKtpbvt18KQBWKax2R6Q2g&usqp=CAU");
+    min-height: 50%;
+
+}
